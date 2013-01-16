@@ -1,0 +1,24 @@
+# Output products list for <general_register>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+general_register.asy
+general_register.gise
+general_register.ngc
+general_register.vhd
+general_register.vho
+general_register.xco
+general_register.xise
+general_register_flist.txt
+general_register_ste\example_design\bmg_wrapper.vhd
+general_register_ste\example_design\general_register_top.ucf
+general_register_ste\example_design\general_register_top.vhd
+general_register_ste\example_design\general_register_top.xdc
+general_register_ste\implement\implement.sh
+general_register_ste\implement\planAhead_rdn.bat
+general_register_ste\implement\planAhead_rdn.sh
+general_register_ste\implement\planAhead_rdn.tcl
+general_register_ste\implement\xst.prj
+general_register_ste\implement\xst.scr
+general_register_xmdf.tcl
+summary.log
